@@ -11,10 +11,6 @@ The `data/` folder contains the raw Airbnb dataset in CSV format.
 
 - `AIRBNB.ipynb`: Initial exploration and visualization ,Statistical hypothesis testing on several relationships and regression model to predict listing prices in the data
 
-## Scripts
-
-- `data_preprocessing.py`: Functions for cleaning, transforming, and encoding the data before modeling
-- `visualizations.py`: Functions for creating visualizations and plots used in the analysis
 
 ## Analysis
 
